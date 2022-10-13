@@ -35,9 +35,9 @@ func Test_TwoSum(t *testing.T) {
 		Target int
 		Want   []int
 	}{
-		//{Nums: []int{2, 7, 11, 15}, Target: 9, Want: []int{0, 1}},
-		//{Nums: []int{3, 2, 4}, Target: 6, Want: []int{1, 2}},
-		//{Nums: []int{0, 4, 3, 0}, Target: 0, Want: []int{0, 3}},
+		{Nums: []int{2, 7, 11, 15}, Target: 9, Want: []int{0, 1}},
+		{Nums: []int{3, 2, 4}, Target: 6, Want: []int{1, 2}},
+		{Nums: []int{0, 4, 3, 0}, Target: 0, Want: []int{0, 3}},
 		{Nums: []int{-3, 4, 3, 90}, Target: 0, Want: []int{0, 2}},
 	}
 
