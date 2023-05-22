@@ -1,4 +1,4 @@
-package main
+package _51_reverse_words_in_string
 
 import (
 	"fmt"

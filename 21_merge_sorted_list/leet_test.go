@@ -1,4 +1,4 @@
-package main
+package _1_merge_sorted_list
 
 import (
 	"github.com/stretchr/testify/assert"

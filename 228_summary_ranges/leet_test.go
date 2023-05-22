@@ -1,4 +1,4 @@
-package main
+package _28_summary_ranges
 
 import (
 	"fmt"

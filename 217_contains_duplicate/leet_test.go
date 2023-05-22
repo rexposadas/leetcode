@@ -1,4 +1,4 @@
-package main
+package _17_contains_duplicate
 
 import (
 	"fmt"

@@ -1,4 +1,4 @@
-package main
+package _69_majority_element
 
 import (
 	"sort"

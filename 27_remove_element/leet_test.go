@@ -1,4 +1,4 @@
-package main
+package _7_remove_element
 
 import (
 	"fmt"

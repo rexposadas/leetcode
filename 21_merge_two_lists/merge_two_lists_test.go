@@ -1,4 +1,4 @@
-package main
+package _1_merge_two_lists
 
 import (
 	"fmt"

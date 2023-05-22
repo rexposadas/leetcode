@@ -1,4 +1,4 @@
-package main
+package _25_valid_palindrome
 
 import (
 	"regexp"
