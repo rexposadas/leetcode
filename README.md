@@ -1,25 +1,31 @@
 # leetcode
-where i store my answered questions
+
+Answers to leetcode
+
+# Stats 
+
+Easy: 14
+Medium: 1
+
+# What I solved:
+
+    1. Two Sum
+    9. Palindrome Number
+    20. Valid Parentheses
+    21. Merge Two Sorted Lists
+    27. Remove Element
+    58. Length of Last Word
+    125. Valid Palindrome
+    141. Linked List Cycle
+    151. Reverse Words in a String
+    169. Majority Element
+    206. Reverse Linked List
+    217. Contains Duplicate
+    228. Summary Ranges
+    242. Valid Anagram
+    704. Binary Search
 
 
-# Goals
 
-do leet code with different languages
-
-
-# Creating the directories
-
-## Go
-
-1. create the test file. for example: two_sum_test.go
-2. go mod init github.com/rexposadas/leetcode
-3. go mod tidy
-4. go test ( to test the setup )
-
-# How to run the code
-
-## Go
-
-Each answer is represented by a go test. Run the test. A pass means the challenge was answered correctly.
-
-go to the directory and run `go test`
+# Running the code
+Go to the directory and run `go test`
